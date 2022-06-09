@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="score">Score: 0</string>
+    <string name="atmp">/5</string>
+
+</resources>
